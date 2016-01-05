@@ -1,8 +1,8 @@
 Package.describe({
     name: 'loftsteinn:photoswipe',
-    summary: 'JavaScript gallery, no dependencies.',
+    summary: 'PhotoSwipe JavaScript gallery, no dependencies',
     version: '4.1.1',
-    git: 'https://github.com/acidsound/meteor-photoswipe.git'
+    git: 'https://github.com/oskarszoon/meteor-photoswipe'
 });
 
 Package.onUse(function (api) {
